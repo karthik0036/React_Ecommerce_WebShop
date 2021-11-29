@@ -28,3 +28,6 @@ Project deployed using Netlify
 - Selling them<br/> 
 - Authentication<br/>
 
+### Comerce js also sends Email to customer & to store owner regarding Transactions
+- To enable this feature, need to register with user's own Credit Card Details while Adding Payment Methods in CommerceJs
+
