@@ -1,12 +1,18 @@
-# Getting Started with Create React App
+# Fully Functional React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Fully MobileResponsive
+> Implemented Advanced React and JavaScripts
+> Used Stripe for Cardless Transactions
+> Created Inteface using Material UI
+> React Scalable Folder Structure
 
-## Available Scripts
+## Deployement
 
-In the project directory, you can run:
+Project deployed using Netlify
 
-### `npm start`
+### Live site:https://commercejs369.netlify.app/
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
