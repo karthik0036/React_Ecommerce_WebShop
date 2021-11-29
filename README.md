@@ -1,10 +1,10 @@
 # Fully Functional React App
 
-> Fully MobileResponsive
-> Implemented Advanced React and JavaScripts
-> Used Stripe for Cardless Transactions
-> Created Inteface using Material UI
-> React Scalable Folder Structure
+> Fully MobileResponsive<br/>
+> Implemented Advanced React and JavaScripts<br/>
+> Used Stripe for Cardless Transactions<br/>
+> Created Inteface using Material UI<br/>
+> React Scalable Folder Structure<br/>
 
 ## Deployement
 
