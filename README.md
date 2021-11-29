@@ -31,5 +31,5 @@ Project deployed using Netlify
 ### Comerce js also sends Email to customer & to store owner regarding Transactions
 - To enable this feature, need to register with user's own Credit Card Details while Adding Payment Methods in CommerceJs
 
-##tutorial 
+## Tutorial 
 https://youtu.be/377AQ0y6LPA
